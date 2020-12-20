@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:orientation="vertical"
+              android:background="@drawable/b1"
+              android:layout_height="match_parent">
+    <EditText android:layout_width="match_parent"
+              android:hint="请输入事件名"
+              android:textSize="30dp"
+              android:id="@+id/title"
+              android:layout_weight="1"
+              android:layout_height="wrap_content"/>
+    <EditText android:layout_width="match_parent"
+              android:layout_weight="8"
+              android:gravity="start"
+              android:id="@+id/context"
+              android:textSize="20dp"
+              android:hint="请输入内容"
+              android:layout_height="wrap_content"/>
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_marginTop="10dp"
+                  android:orientation="horizontal"
+                  android:layout_weight="3"
+                  android:gravity="center_horizontal"
+                  android:layout_height="wrap_content">
+        <Button android:layout_width="wrap_content"
+                android:textSize="30dp"
+                android:text="取消"
+                android:layout_marginRight="30dp"
+                android:id="@+id/cancel_button"
+                android:layout_height="wrap_content"/>
+        <Button android:layout_width="wrap_content"
+                android:textSize="30dp"
+                android:layout_marginLeft="30dp"
+                android:text="确定"
+                android:id="@+id/confirm_button"
+                android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>

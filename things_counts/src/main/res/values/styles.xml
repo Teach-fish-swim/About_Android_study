@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here.
+         在这儿编辑主题
+         -->
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="count_things_Theme" parent="Theme.AppCompat.DayNight.DarkActionBar"><!-- Customize your theme here. -->
+       <item name="android:windowActionBar">false</item>
+        <item name="colorPrimary">@color/count_things_GreenTheme</item>
+
+    </style>
+<!--  定义的的方法一：直接在该文件内写颜色样式
+       定义的方法二：在该文件的同级目录下的color.xml文件中定义
+  -->
+    <color name="things_part">#5A1059</color>
+</resources>

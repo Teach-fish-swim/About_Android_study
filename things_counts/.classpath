@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Android API 30 Platform"/>
+	<classpathentry kind="src" path="/things_counts/build/generated/source/navigation-args/debug"/>
+	<classpathentry kind="src" path="/things_counts/build/generated/ap_generated_sources/debug/out"/>
+	<classpathentry kind="src" path="/things_counts/build/generated/aidl_source_output_dir/debug/out"/>
+	<classpathentry kind="src" path="/things_counts/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="/things_counts/build/generated/renderscript_source_output_dir/debug/out"/>
+	<classpathentry kind="src" path="/things_counts/build/generated/res/rs/debug"/>
+	<classpathentry kind="src" path="/things_counts/build/generated/ap_generated_sources/debugAndroidTest/out"/>
+	<classpathentry kind="src" path="/things_counts/build/generated/aidl_source_output_dir/debugAndroidTest/out"/>
+	<classpathentry kind="src" path="/things_counts/build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="/things_counts/build/generated/renderscript_source_output_dir/debugAndroidTest/out"/>
+	<classpathentry kind="src" path="/things_counts/build/generated/res/rs/androidTest/debug"/>
+	<classpathentry kind="src" path="/things_counts/build/generated/ap_generated_sources/debugUnitTest/out"/>
+	<classpathentry kind="src" path="/things_counts/src/debug/res"/>
+	<classpathentry kind="src" path="/things_counts/src/debug/resources"/>
+	<classpathentry kind="src" path="/things_counts/src/debug/assets"/>
+	<classpathentry kind="src" path="/things_counts/src/debug/aidl"/>
+	<classpathentry kind="src" path="/things_counts/src/debug/java"/>
+	<classpathentry kind="src" path="/things_counts/src/debug/rs"/>
+	<classpathentry kind="src" path="/things_counts/src/debug/shaders"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTestDebug/res"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTestDebug/resources"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTestDebug/assets"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTestDebug/aidl"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTestDebug/java"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTestDebug/rs"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTestDebug/shaders"/>
+	<classpathentry kind="src" path="/things_counts/src/testDebug/res"/>
+	<classpathentry kind="src" path="/things_counts/src/testDebug/resources"/>
+	<classpathentry kind="src" path="/things_counts/src/testDebug/assets"/>
+	<classpathentry kind="src" path="/things_counts/src/testDebug/aidl"/>
+	<classpathentry kind="src" path="/things_counts/src/testDebug/java"/>
+	<classpathentry kind="src" path="/things_counts/src/testDebug/rs"/>
+	<classpathentry kind="src" path="/things_counts/src/testDebug/shaders"/>
+	<classpathentry kind="src" path="/things_counts/src/main/res"/>
+	<classpathentry kind="src" path="/things_counts/src/main/resources"/>
+	<classpathentry kind="src" path="/things_counts/src/main/assets"/>
+	<classpathentry kind="src" path="/things_counts/src/main/aidl"/>
+	<classpathentry kind="src" path="/things_counts/src/main/java"/>
+	<classpathentry kind="src" path="/things_counts/src/main/rs"/>
+	<classpathentry kind="src" path="/things_counts/src/main/shaders"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTest/res"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTest/resources"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTest/assets"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTest/aidl"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTest/java"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTest/rs"/>
+	<classpathentry kind="src" path="/things_counts/src/androidTest/shaders"/>
+	<classpathentry kind="src" path="/things_counts/src/test/res"/>
+	<classpathentry kind="src" path="/things_counts/src/test/resources"/>
+	<classpathentry kind="src" path="/things_counts/src/test/assets"/>
+	<classpathentry kind="src" path="/things_counts/src/test/aidl"/>
+	<classpathentry kind="src" path="/things_counts/src/test/java"/>
+	<classpathentry kind="src" path="/things_counts/src/test/rs"/>
+	<classpathentry kind="src" path="/things_counts/src/test/shaders"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: junit:junit:4.12@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.hamcrest:hamcrest-integration:1.3@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.hamcrest:hamcrest-library:1.3@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: org.hamcrest:hamcrest-core:1.3@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: net.sf.kxml:kxml2:2.3.0@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.squareup:javawriter:2.1.1@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: javax.inject:javax.inject:1@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.google.code.findbugs:jsr305:2.0.1@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.test.ext:junit:1.1.1@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.test.espresso:espresso-core:3.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.test:runner:1.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.test:core:1.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.test:monitor:1.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.test.espresso:espresso-idling-resource:3.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.collection:collection:1.1.0@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.arch.core:core-common:2.1.0@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.lifecycle:lifecycle-common:2.2.0@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.annotation:annotation:1.1.0@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.constraintlayout:constraintlayout-solver:1.1.3@jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.navigation:navigation-ui:2.3.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: com.google.android.material:material:1.1.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.appcompat:appcompat:1.1.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.navigation:navigation-fragment:2.3.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.lifecycle:lifecycle-extensions:2.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.viewpager2:viewpager2:1.0.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.fragment:fragment:1.2.4@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.appcompat:appcompat-resources:1.1.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.drawerlayout:drawerlayout:1.1.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.recyclerview:recyclerview:1.1.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.transition:transition:1.3.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.viewpager:viewpager:1.0.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.customview:customview:1.1.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.loader:loader:1.0.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.navigation:navigation-runtime:2.3.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.activity:activity:1.1.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.core:core:1.3.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.cardview:cardview:1.0.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.lifecycle:lifecycle-process:2.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.lifecycle:lifecycle-service:2.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.lifecycle:lifecycle-livedata:2.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.lifecycle:lifecycle-livedata-core:2.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.arch.core:core-runtime:2.1.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.savedstate:savedstate:1.0.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.lifecycle:lifecycle-viewmodel:2.2.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.navigation:navigation-common:2.3.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.interpolator:interpolator:1.0.0@aar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Gradle: androidx.constraintlayout:constraintlayout:1.1.3@aar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
